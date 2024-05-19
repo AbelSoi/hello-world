@@ -1,7 +1,10 @@
 body {
-    background-color: lightblue;
+  background-color: lightblue;
 }
-h1{
-    color: grey;
-    text-decoration: underline;
+h1 {
+  color: grey;
+  text-decoration: underline;
+}
+p {
+  width: 50%;
 }
