@@ -5,3 +5,4 @@ It now includes steps for github.
 And how to pull from Github.
 This is a pull shortcut.
 How to push a branch to GitHub.
+How to amend a the latest commit
